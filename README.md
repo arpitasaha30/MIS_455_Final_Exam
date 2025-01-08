@@ -26,3 +26,15 @@
           </button>
         </div>
       </div>
+      <div class = "meal-result">
+        <h2 class = "title">Your Search Results:</h2>
+        <div id= "meal"> 
+        </div>
+      </div>
+
+
+      <div class = "meal-details">
+    
+        <button type = "button" class = "btn recipe-close-btn" id = "recipe-close-btn">
+          <i class = "fas fa-times"></i>
+        </button>
