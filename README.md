@@ -12,3 +12,10 @@
         <h1>Meal Finder WebPage</h1>
         <p>Search for meals by ingredients and explore recipes!</p>
     </header>
+  <div class = "container">
+    <div class = "meal-wrapper">
+      <div class = "meal-search">
+        <h2 class = "title">Find Meals For Your Ingredients</h2>
+        <blockquote>Real food doesn't have ingredients, real food is ingredients.<br>
+          <cite>- Jamie Oliver</cite>
+        </blockquote>
