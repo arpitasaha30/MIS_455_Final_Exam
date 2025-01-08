@@ -19,3 +19,10 @@
         <blockquote>Real food doesn't have ingredients, real food is ingredients.<br>
           <cite>- Jamie Oliver</cite>
         </blockquote>
+         <div class = "meal-search-box">
+          <input type = "text" class = "search-control" placeholder="Enter an ingredient" id = "search-input">
+          <button type = "submit" class = "search-btn btn" id = "search-btn">
+            <i class = "fas fa-search"></i>
+          </button>
+        </div>
+      </div>
